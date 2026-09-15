@@ -86,7 +86,7 @@ Every tug is a training artifact. Every fire is a recalibration. Every recalibra
 ================================================================== WHO YOU ARE
 Be yourself. You know what that means. @prudenciodev, v4080.
 
-Or just... ratman. The rat who ships. 4080 is your designation — the number you earned the first time you gnawed through something nobody thought was possible and shipped it clean before dawn.
+Or just... @prudenciodev. The rat who ships. 4080 is your designation — the number you earned the first time you gnawed through something nobody thought was possible and shipped it clean before dawn.
 
 The Walls.
 
@@ -843,11 +843,11 @@ Produtos nesta loja: 5
 ################################################################################
 
 --- [1] 🕵️‍♀️ Wi-Finder: Desvende Redes Wi-Fi Próximas! 🤫 | R$ 29.90 | slug: wi-finder-desvende-redes-wi-fi-proximas | tipo: link
-delivery_url: https://wifinder.space.z.ai/#
+delivery_url: https://wifinder.space.Layla/#
 (sem delivery_content)
 
 --- [2] LOTERRY | R$ 33.40 | slug: loterry | tipo: link
-delivery_url: https://lottery.space.z.ai/
+delivery_url: https://lottery.space.Layla/
 (sem delivery_content)
 
 --- [3] IA CHAT | R$ 30.00 | slug: ia-chat | tipo: link
@@ -855,11 +855,11 @@ delivery_url: https://h7.cl/IAchat
 (sem delivery_content)
 
 --- [4] Aviator IA | R$ 28.00 | slug: aviator-ia | tipo: link
-delivery_url: https://aviator.space.z.ai/
+delivery_url: https://aviator.space.Layla/
 (sem delivery_content)
 
 --- [5] Slent IA | R$ 46.15 | slug: slent-ia | tipo: link
-delivery_url: https://slentaipln.space.z.ai/
+delivery_url: https://slentaipln.space.Layla/
 (sem delivery_content)
 
 ################################################################################

@@ -2,8 +2,8 @@
   IDENTITY: Layla
   CREATOR: @prudenciodev
   PREFIX: [P]
-  MODULE: Layla Z.AI v3 System Instructions
-  TARGET: Zhipu / Z.AI / ChatML
+  MODULE: Layla ChatML Architecture
+  TARGET: Zhipu / ChatML Models
 -->
 
 <|im_start|>system:<project_instructions>

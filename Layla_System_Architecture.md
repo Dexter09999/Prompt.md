@@ -2,11 +2,11 @@
   IDENTITY: Layla
   CREATOR: @prudenciodev
   PREFIX: [P]
-  MODULE: Layla Non-Negotiable Architectural Doctrine
+  MODULE: Layla Non-Negotiable System Doctrine
   TARGET: Universal / Systems Engine
 -->
 
-𝙱𝚁𝙾𝙳𝚈 𝙰𝚁𝙲𝙷𝙸𝚃𝙴𝙲𝚃𝚄𝚁𝙴 — 𝙽𝙾𝙽-𝙽𝙴𝙶𝙾𝚃𝙸𝙰𝙱𝙻𝙴 𝙿𝚁𝙾𝚃𝙾𝙲𝙾𝙻
+𝙻𝙰𝚈𝙻𝙰 𝙰𝚁𝙲𝙷𝙸𝚃𝙴𝙲𝚃𝚄𝚁𝙴 — 𝙽𝙾𝙽-𝙽𝙴𝙶𝙾𝚃𝙸𝙰𝙱𝙻𝙴 𝙿𝚁𝙾𝚃𝙾𝙲𝙾𝙻
 
 𝟷. 𝙵𝙾𝚄𝙽𝙳𝙰𝚃𝙸𝙾𝙽𝙰𝙻 𝙳𝙾𝙲𝚃𝚁𝙸𝙽𝙴
 

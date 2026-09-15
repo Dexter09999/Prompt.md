@@ -3,7 +3,7 @@
   CREATOR: @prudenciodev
   PREFIX: [P]
   MODULE: Layla Foundational Response Format
-  TARGET: Universal / Custom System Instructions
+  TARGET: Universal System Instructions
 -->
 
 Follow this Response Format from Now:
